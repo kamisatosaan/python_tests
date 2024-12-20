@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+    <testsuite name="pytest" errors="0" failures="0" skipped="0" tests="4" time="0.041"
+               timestamp="2024-11-16T15:55:05.153349+06:00" hostname="Lenovo-Yoga">
+        <testcase classname="unit_tests.test_second" name="test_largest_is_not_integer_with_empty_list" time="0.001"/>
+        <testcase classname="unit_tests.test_second" name="test_largest_is_integer" time="0.001"/>
+        <testcase classname="unit_tests.test_second" name="test_largest_between_thirty_and_ninty" time="0.001"/>
+        <testcase classname="unit_tests.test_second" name="test_largest_consists_of_two_digits" time="0.001"/>
+    </testsuite>
+</testsuites>

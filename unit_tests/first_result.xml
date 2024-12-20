@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+    <testsuite name="pytest" errors="0" failures="0" skipped="0" tests="4" time="0.033"
+               timestamp="2024-11-16T15:54:21.724711+06:00" hostname="Lenovo-Yoga">
+        <testcase classname="unit_tests.test_first" name="test_is_positive[1-True]" time="0.002"/>
+        <testcase classname="unit_tests.test_first" name="test_is_positive[-2-False]" time="0.001"/>
+        <testcase classname="unit_tests.test_first" name="test_is_positive[0-False]" time="0.001"/>
+        <testcase classname="unit_tests.test_first" name="test_is_positive[4-True]" time="0.001"/>
+    </testsuite>
+</testsuites>

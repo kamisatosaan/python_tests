@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+    <testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="1.163"
+               timestamp="2024-11-20T22:44:05.937301+06:00" hostname="Lenovo-Yoga">
+        <testcase classname="test_employees_api" name="test_employees_api" time="0.664"/>
+    </testsuite>
+</testsuites>
